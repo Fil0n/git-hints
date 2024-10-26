@@ -4,4 +4,4 @@
 
 `git clone https://github.com/PraktikumJava/git-hints.git`
 
-Изменения фала
+Изменения фала -1
